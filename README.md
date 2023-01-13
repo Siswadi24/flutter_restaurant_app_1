@@ -21,7 +21,7 @@ https://github.com/Siswadi24/flutter_restaurant_app_1.git
 )```
 2. kemudian buka pada text editor anda masing-masing. 
 3. Menuju file `pubspec.yaml` lalu lakukan `Ctrl + S` atau tekan tombol download di sebelah kanan atas seperti pada gambar dibawah ini<img src="demo/pubyl.png"/>
-3. Jalankan menggunakan perintah `flutter run` atau bisa menuju dokument `main.dart` lalu klik tombol `debug` seperti pada gambar dibawah <img src="demo/debug.png"/>
+3. Jalankan menggunakan perintah `flutter run` atau bisa menuju dokument `main.dart` lalu klik tombol `debug` seperti pada gambar dibawah<br><img src="demo/debug.png"/><br>
 __*Jika masih bingung silahkan kunjungi website ini [cara menjalankan projek flutter dilocal komputer menggunakan Vs Code](https://piusaditya.medium.com/cara-clone-flutter-project-dari-github-menggunakan-visual-studio-code-3e165c2bef98)*__
 
 
